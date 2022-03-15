@@ -54,7 +54,7 @@ const Close = styled.span`
     border-radius: 50%;
     cursor: pointer;
     opacity: 0.8;
-    @media screen {
+    @media (max-width:480px) {
      position: absolute;
         top: 10px;
         right: 12px;
